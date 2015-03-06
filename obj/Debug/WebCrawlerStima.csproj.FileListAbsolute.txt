@@ -1,0 +1,9 @@
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\bin\Debug\WebCrawlerStima.exe.config
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\bin\Debug\WebCrawlerStima.exe
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\bin\Debug\WebCrawlerStima.pdb
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\obj\Debug\WebCrawlerStima.csprojResolveAssemblyReference.cache
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\obj\Debug\WebCrawlerStima.exe
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\obj\Debug\WebCrawlerStima.pdb
+F:\ITB\Semester 4\Strategi Algoritma\Tubes 2\WebCrawlerStima\bin\Debug\WebCrawlerStima.exe.config
+F:\ITB\Semester 4\Strategi Algoritma\Tubes 2\WebCrawlerStima\obj\Debug\WebCrawlerStima.exe
+F:\ITB\Semester 4\Strategi Algoritma\Tubes 2\WebCrawlerStima\obj\Debug\WebCrawlerStima.pdb

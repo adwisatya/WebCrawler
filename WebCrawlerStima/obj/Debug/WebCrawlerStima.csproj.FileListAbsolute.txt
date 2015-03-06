@@ -1,0 +1,12 @@
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\bin\Debug\WebCrawlerStima.exe.config
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\bin\Debug\WebCrawlerStima.exe
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\bin\Debug\WebCrawlerStima.pdb
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\obj\Debug\WebCrawlerStima.csprojResolveAssemblyReference.cache
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\obj\Debug\WebCrawlerStima.exe
+c:\users\adwisatya\documents\visual studio 2012\Projects\WebCrawlerStima\WebCrawlerStima\obj\Debug\WebCrawlerStima.pdb
+C:\Users\Yanfa\Downloads\ITB\WebCrawlerStima\WebCrawlerStima\bin\Debug\WebCrawlerStima.exe.config
+C:\Users\Yanfa\Downloads\ITB\WebCrawlerStima\WebCrawlerStima\obj\Debug\WebCrawlerStima.exe
+C:\Users\Yanfa\Downloads\ITB\WebCrawlerStima\WebCrawlerStima\obj\Debug\WebCrawlerStima.pdb
+C:\Users\Yanfa\Downloads\ITB\WebCrawlerStima\WebCrawlerStima\bin\Debug\WebCrawlerStima.exe
+C:\Users\Yanfa\Downloads\ITB\WebCrawlerStima\WebCrawlerStima\bin\Debug\WebCrawlerStima.pdb
+C:\Users\Yanfa\Downloads\ITB\WebCrawlerStima\WebCrawlerStima\obj\Debug\WebCrawlerStima.csprojResolveAssemblyReference.cache
